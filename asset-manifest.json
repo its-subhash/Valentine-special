@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/Valentine-special/static/js/main.34ef1dfd.js",
+    "static/media/heart.png": "/Valentine-special/static/media/heart.091030967b2f3221c8c2.png",
+    "static/media/beforeteddy.gif": "/Valentine-special/static/media/beforeteddy.18850333891b6f44d5ad.gif",
+    "static/media/afterteddy.gif": "/Valentine-special/static/media/afterteddy.0534d168ee90f374c77f.gif",
+    "index.html": "/Valentine-special/index.html",
+    "main.34ef1dfd.js.map": "/Valentine-special/static/js/main.34ef1dfd.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.34ef1dfd.js"
+  ]
+}
